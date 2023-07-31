@@ -16,7 +16,7 @@ int main(void) {
 	{
 		printf("홀수입니다.\n");
 	}
-
-
+	printf("ㅂㅂㅂㅂ");
+	//주석쓰기
 	return 0;
 }
